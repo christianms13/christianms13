@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a passionate web application developer with a strong focus on system management and web integrations. My journey in computer science began in childhood, fueled by a fascination with technology and programming. This led me to pursue a comprehensive education in the field, where I discovered my true motivation: the creative and challenging process of web application development. I thrive on solving complex problems with innovative solutions and continuously seek to expand my knowledge and technical skills.
+I am a passionate web application developer with a strong focus on system management and web integrations. My journey in computer science began in childhood, fueled by a fascination with technology and programming. This led me to pursue a comprehensive education in the field, where I discovered my true motivation: the creative and challenging process of web application development and programming environments. I thrive on solving complex problems with innovative solutions and continuously seek to expand my knowledge and technical skills.
 
 ### 🛠️ Technical Skills
 
@@ -67,7 +67,7 @@ I am always open to new opportunities that will allow me to grow professionally 
 
 ## 🚀 Sobre mí
 
-Soy un apasionado desarrollador de aplicaciones web con un fuerte enfoque en la gestión de sistemas y las integraciones web. Mi viaje en la informática comenzó en la infancia, impulsado por una fascinación por la tecnología y la programación. Esto me llevó a seguir una educación integral en el campo, donde descubrí mi verdadera motivación: el proceso creativo y desafiante del desarrollo de aplicaciones web. Disfruto resolviendo problemas complejos con soluciones innovadoras y busco continuamente ampliar mis conocimientos y habilidades técnicas.
+Soy un apasionado desarrollador de aplicaciones web con un fuerte enfoque en la gestión de sistemas y las integraciones web. Mi viaje en la informática comenzó en la infancia, impulsado por una fascinación por la tecnología y la programación. Esto me llevó a seguir una educación integral en el campo, donde descubrí mi verdadera motivación: el proceso creativo y desafiante del desarrollo de aplicaciones web y entornos de programación. Disfruto resolviendo problemas complejos con soluciones innovadoras y busco continuamente ampliar mis conocimientos y habilidades técnicas.
 
 ### 🛠️ Habilidades Técnicas
 
