@@ -31,7 +31,7 @@ I am a passionate web application developer with a strong focus on system manage
 ### 🎓 Education
 
 - **[CPIFP Alan Turing](https://fpalanturing.es)**, Málaga, Spain
-  - **Advanced Vocational Training in Web Application Development** (Sep 2022 - Sep 2024)
+  - **Advanced Vocational Training in Web Application Development** (Sep 2022 - Jun 2024)
   - **Grade: 9.75**
   - Activities: Frontend and backend development, continuous deployment, user experience, responsive design, database management, and API integration.
 
@@ -94,7 +94,7 @@ Soy un apasionado desarrollador de aplicaciones web con un fuerte enfoque en la 
 ### 🎓 Educación
 
 - **[CPIFP Alan Turing](https://fpalanturing.es)**, Málaga, España
-  - **Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web** (Sep 2022 - Sep 2024)
+  - **Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web** (Sep 2022 - Jun 2024)
   - **Calificación: 9.75**
   - Actividades: Desarrollo frontend y backend, despliegue continuo, experiencia de usuario, diseño responsivo, gestión de bases de datos e integración de API.
 
