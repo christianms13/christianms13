@@ -36,7 +36,7 @@ I am a passionate web application developer with a strong focus on system manage
   - Activities: Frontend and backend development, continuous deployment, user experience, responsive design, database management, and API integration.
 
 - **[IES Ciudad Jardín](https://ciudadjardin.org)**, Málaga, Spain
-  - **Intermediate Vocational Training in Computer Systems and Networks** (Sep 2019 - Jun 2022)
+  - **Intermediate Vocational Training in Computer Systems and Networks** (Sep 2020 - Jun 2022)
   - **Grade: 8.5**
   - Activities: Practical applications of computer hardware, networking protocols, system administration, troubleshooting, maintenance, and configuration of IT infrastructure.
 
@@ -99,7 +99,7 @@ Soy un apasionado desarrollador de aplicaciones web con un fuerte enfoque en la 
   - Actividades: Desarrollo frontend y backend, despliegue continuo, experiencia de usuario, diseño responsivo, gestión de bases de datos e integración de API.
 
 - **[IES Ciudad Jardín](https://ciudadjardin.org)**, Málaga, España
-  - **Formación Profesional de Grado Medio en Sistemas Microinformáticos y Redes** (Sep 2019 - Jun 2022)
+  - **Formación Profesional de Grado Medio en Sistemas Microinformáticos y Redes** (Sep 2020 - Jun 2022)
   - **Calificación: 8.5**
   - Actividades: Aplicaciones prácticas de hardware informático, protocolos de redes, administración de sistemas, solución de problemas, mantenimiento y configuración de infraestructura IT.
 
