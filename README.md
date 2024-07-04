@@ -23,7 +23,7 @@ I am a passionate web application developer with a strong focus on system manage
   - Integrated specialized hiring features for companies in the sector, enhancing the recruitment process.
   - Collaborated with internal teams to ensure effective and efficient implementation, meeting project deadlines and quality standards.
 
-- **[Avanzada7](https://www.avanzada7.com/es)**, Málaga, Spain - **Intern/Junior Development Assistant** (Mar 2022 - Jun 2022)
+- **[Avanzada7](https://www.avanzada7.com/en)**, Málaga, Spain - **Intern/Junior Development Assistant** (Mar 2022 - Jun 2022)
   - Installed and maintained computer systems, configured networks, and developed web applications.
   - Resolved technical issues and optimized systems to enhance efficiency.
   - Provided training and user support for new applications and systems, ensuring smooth adoption and user satisfaction.
@@ -86,7 +86,7 @@ Soy un apasionado desarrollador de aplicaciones web con un fuerte enfoque en la 
   - Integré características especializadas de contratación para empresas del sector, mejorando el proceso de reclutamiento.
   - Colaboré con equipos internos para asegurar una implementación efectiva y eficiente, cumpliendo con los plazos y estándares de calidad del proyecto.
 
-- **[Avanzada7](https://www.avanzada7.com/en)**, Málaga, España - **Becario/Asistente de Desarrollo Junior** (Mar 2022 - Jun 2022)
+- **[Avanzada7](https://www.avanzada7.com/es)**, Málaga, España - **Becario/Asistente de Desarrollo Junior** (Mar 2022 - Jun 2022)
   - Instalé y mantuve sistemas informáticos, configuré redes y desarrollé aplicaciones web.
   - Resolví problemas técnicos y optimicé sistemas para mejorar la eficiencia.
   - Proporcioné formación y soporte a usuarios en nuevas aplicaciones y sistemas, asegurando una adopción fluida y satisfacción del usuario.
